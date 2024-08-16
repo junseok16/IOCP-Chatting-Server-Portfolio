@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# framework
+Framework/Common/*
+Framework/Import/*
+Framework/DummyClient/Include/*
+Framework/Server/Include/*
+Framework/ServerCore/Include/*
+
+# protobuf
+Framework/*.sln
+Framework/*.bat
